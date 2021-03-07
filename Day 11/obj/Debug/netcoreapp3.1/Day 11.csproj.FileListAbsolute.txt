@@ -1,0 +1,26 @@
+C:\Users\Huy Le\source\repos\Day 11\Day 11\bin\Debug\netcoreapp3.1\Day 11.exe
+C:\Users\Huy Le\source\repos\Day 11\Day 11\bin\Debug\netcoreapp3.1\Day 11.deps.json
+C:\Users\Huy Le\source\repos\Day 11\Day 11\bin\Debug\netcoreapp3.1\Day 11.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Day 11\Day 11\bin\Debug\netcoreapp3.1\Day 11.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Day 11\Day 11\bin\Debug\netcoreapp3.1\Day 11.dll
+C:\Users\Huy Le\source\repos\Day 11\Day 11\bin\Debug\netcoreapp3.1\Day 11.pdb
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.dll
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.pdb
+C:\Users\Huy Le\source\repos\Day 11\Day 11\obj\Debug\netcoreapp3.1\Day 11.genruntimeconfig.cache
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\bin\Debug\netcoreapp3.1\Day 11.exe
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\bin\Debug\netcoreapp3.1\Day 11.deps.json
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\bin\Debug\netcoreapp3.1\Day 11.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\bin\Debug\netcoreapp3.1\Day 11.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\bin\Debug\netcoreapp3.1\Day 11.dll
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\bin\Debug\netcoreapp3.1\Day 11.pdb
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.dll
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.pdb
+C:\Users\Huy Le\source\repos\Day 11- Subsets\Day 11\obj\Debug\netcoreapp3.1\Day 11.genruntimeconfig.cache
