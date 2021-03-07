@@ -9,7 +9,6 @@ namespace Day_11
         {
             var ls = new List<string> { "A", "B","C"};
             Subsets(ls);
-
         }
         static void Subsets(List<string> ls)
         {
@@ -24,7 +23,6 @@ namespace Day_11
             Console.WriteLine("Using Subsets4");
             Subsets4(ls, 0,2);
         }
-
         static void Subsets1(List<string> ls, List<string> results, int k)
         {
             if (ls.Count == 0 && (results.Count < k || results.Count > k))
