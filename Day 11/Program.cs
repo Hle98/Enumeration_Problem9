@@ -13,11 +13,10 @@ namespace Day_11
         static void Subsets(List<string> ls)
         {
             var results = new List<string>();
-            Console.WriteLine("Using Subsets2");
-            Subsets2(ls, results, 2);
             Console.WriteLine("Using Subsets1");
             Subsets1(ls, results,2);
-
+            Console.WriteLine("Using Subsets2");
+            Subsets2(ls, results, 2);
             Console.WriteLine("Using Subsets3");
             Subsets3(ls, 0, results,2);
             Console.WriteLine("Using Subsets4");
